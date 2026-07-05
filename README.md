@@ -142,7 +142,7 @@ project link = https://github.com/muhammadismail78175-ops/My_First_OOPs_roject_s
 
 # 🌐 Connect With Me
 
-<a href="https://linkedin.com/in/YOUR_LINK">
+<a href="https://linkedin.com/in/muhammad-ismail-4508293b5">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
 </a>
 
