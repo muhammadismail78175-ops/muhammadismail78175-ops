@@ -90,20 +90,16 @@ My goal is to become a **SOC Analyst**, **Security Engineer**, or **Penetration 
 ## 🐍 Snake Game (OOP)
 
 A classic Snake Game developed using **C++ Object-Oriented Programming Concepts**.
+<br>
 project link = https://github.com/muhammadismail78175-ops/My_First_OOPs_roject_snake_game
 
-### Features
 
-- Object-Oriented Design
-- Score System
-- Collision Detection
-- Keyboard Controls
-- Clean C++ Code
-
-# Conducting Security Audit
+## Conducting Security Audit
 
  Botium Toys – Controls & Compliance Checklist (Security Audit)
+ <br>
 project Link = https://github.com/muhammadismail78175-ops/Conduct_a_security_audit.git
+
 ---
 
 ## 💻 More Projects Coming Soon
