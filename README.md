@@ -100,6 +100,10 @@ project link = https://github.com/muhammadismail78175-ops/My_First_OOPs_roject_s
 - Keyboard Controls
 - Clean C++ Code
 
+# Conducting Security Audit
+
+ Botium Toys – Controls & Compliance Checklist (Security Audit)
+project Link = https://github.com/muhammadismail78175-ops/Conduct_a_security_audit.git
 ---
 
 ## 💻 More Projects Coming Soon
